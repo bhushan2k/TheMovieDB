@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MVVM"
+rootProject.name = "TheMovieDB"
 include(":app")
